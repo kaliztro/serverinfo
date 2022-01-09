@@ -1,5 +1,4 @@
 const { Client, CommandInteraction, MessageEmbed } = require("discord.js");
-const config = require(`../../config.json`);
 
 module.exports = {
   name: "serverinfo",
@@ -39,7 +38,7 @@ module.exports = {
     const owner = await interaction.guild.fetchOwner();
 
     const embed = new MessageEmbed()
-      .setColor(config.cor)
+      .setColor(`#3086c9`)
       .setThumbnail(interaction.guild.iconURL())
       .setAuthor('🔍 Informações do servidor')
       .addField('**Nome**', interaction.guild.name, true)
