@@ -29,7 +29,7 @@ module.exports = {
     }
 
     const regiao = {
-      [`en-US`]: `EUA :flag_us: `, [`de`]: `Deutsch `, [`es-ES`]: `Español `, [`fr`]: `Français `, [`hr`]: `Hrvatski `, [`it`]: `Italiano `, [`pl`]: `Polski `, [`ro`]: `Româna `, [`vi`]: `Tieng Viet `, [`cs`]: `Cestina `,
+      [`en-US`]: `USA :flag_us: `, [`de`]: `Deutsch `, [`es-ES`]: `Español `, [`fr`]: `Français `, [`hr`]: `Hrvatski `, [`it`]: `Italiano `, [`pl`]: `Polski `, [`ro`]: `Româna `, [`vi`]: `Tieng Viet `, [`cs`]: `Cestina `,
       [`pt-BR`]: `Brasil :flag_br: `, [`da`]: `Dansk `, [`lt`]: `lietuviskai `, [`hu`]: `Magyar `, [`nl`]: `Nederlands `, [`no`]: `Norsk `, [`fi`]: `Suomi `, [`sv-SE`]: `Svenska `, [`tr`]: `Turkçe `, [`el`]: `Ελληνικά `,
       [`bg`]: `български `, [`ru`]: `Русский `, [`uk`]: `Украïнська `, [`hi`]: `हिंदी `, [`th`]: `ไทย `, [`zh-CN`]: `中文 `, [`ja`]: `日本語 `, [`zh-TW`]: `繁體 中文 `, [`ko`]: `한국어 `,
     }
